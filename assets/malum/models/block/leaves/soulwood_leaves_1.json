@@ -1,0 +1,7 @@
+{
+    "parent": "xalixilax:block/template_leaves_1",
+    "textures": {
+        "all": "malum:block/soulwood_leaves",
+        "bushy": "malum:block/soulwood_leaves_1"
+    }
+}

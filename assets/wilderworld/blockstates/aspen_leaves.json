@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "wilderworld:block/leaves/aspen_leaves_0" },
+			{ "model": "wilderworld:block/leaves/aspen_leaves_1" },
+			{ "model": "wilderworld:block/leaves/aspen_leaves_0", "y": 90 },
+			{ "model": "wilderworld:block/leaves/aspen_leaves_1", "y": 90 },
+			{ "model": "wilderworld:block/leaves/aspen_leaves_0", "y": 180 },
+			{ "model": "wilderworld:block/leaves/aspen_leaves_1", "y": 180 },
+			{ "model": "wilderworld:block/leaves/aspen_leaves_0", "y": 270 },
+			{ "model": "wilderworld:block/leaves/aspen_leaves_1", "y": 270 }
+		]
+    }
+}

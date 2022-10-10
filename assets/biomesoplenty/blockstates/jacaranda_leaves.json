@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "biomesoplenty:block/leaves/jacaranda_leaves_0" },
+			{ "model": "biomesoplenty:block/leaves/jacaranda_leaves_1" },
+			{ "model": "biomesoplenty:block/leaves/jacaranda_leaves_0", "y": 90 },
+			{ "model": "biomesoplenty:block/leaves/jacaranda_leaves_1", "y": 90 },
+			{ "model": "biomesoplenty:block/leaves/jacaranda_leaves_0", "y": 180 },
+			{ "model": "biomesoplenty:block/leaves/jacaranda_leaves_1", "y": 180 },
+			{ "model": "biomesoplenty:block/leaves/jacaranda_leaves_0", "y": 270 },
+			{ "model": "biomesoplenty:block/leaves/jacaranda_leaves_1", "y": 270 }
+		]
+    }
+}

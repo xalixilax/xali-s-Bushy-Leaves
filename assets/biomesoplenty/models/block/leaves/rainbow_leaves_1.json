@@ -1,0 +1,7 @@
+{
+    "parent": "xalixilax:block/template_leaves_1",
+    "textures": {
+        "all": "minecraft:block/birch_leaves",
+        "bushy": "minecraft:block/birch_leaves_bushy_1"
+    }
+}

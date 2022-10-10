@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "malum:block/leaves/soulwood_leaves_0" },
+			{ "model": "malum:block/leaves/soulwood_leaves_1" },
+			{ "model": "malum:block/leaves/soulwood_leaves_0", "y": 90 },
+			{ "model": "malum:block/leaves/soulwood_leaves_1", "y": 90 },
+			{ "model": "malum:block/leaves/soulwood_leaves_0", "y": 180 },
+			{ "model": "malum:block/leaves/soulwood_leaves_1", "y": 180 },
+			{ "model": "malum:block/leaves/soulwood_leaves_0", "y": 270 },
+			{ "model": "malum:block/leaves/soulwood_leaves_1", "y": 270 }
+		]
+    }
+}

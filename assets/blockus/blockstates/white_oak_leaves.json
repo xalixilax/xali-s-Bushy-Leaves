@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "blockus:block/leaves/white_oak_leaves_0" },
+			{ "model": "blockus:block/leaves/white_oak_leaves_1" },
+			{ "model": "blockus:block/leaves/white_oak_leaves_0", "y": 90 },
+			{ "model": "blockus:block/leaves/white_oak_leaves_1", "y": 90 },
+			{ "model": "blockus:block/leaves/white_oak_leaves_0", "y": 180 },
+			{ "model": "blockus:block/leaves/white_oak_leaves_1", "y": 180 },
+			{ "model": "blockus:block/leaves/white_oak_leaves_0", "y": 270 },
+			{ "model": "blockus:block/leaves/white_oak_leaves_1", "y": 270 }
+		]
+    }
+}

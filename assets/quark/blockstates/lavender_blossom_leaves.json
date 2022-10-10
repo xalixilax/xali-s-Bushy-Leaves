@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "quark:block/leaves/lavender_blossom_leaves_0" },
+			{ "model": "quark:block/leaves/lavender_blossom_leaves_1" },
+			{ "model": "quark:block/leaves/lavender_blossom_leaves_0", "y": 90 },
+			{ "model": "quark:block/leaves/lavender_blossom_leaves_1", "y": 90 },
+			{ "model": "quark:block/leaves/lavender_blossom_leaves_0", "y": 180 },
+			{ "model": "quark:block/leaves/lavender_blossom_leaves_1", "y": 180 },
+			{ "model": "quark:block/leaves/lavender_blossom_leaves_0", "y": 270 },
+			{ "model": "quark:block/leaves/lavender_blossom_leaves_1", "y": 270 }
+		]
+    }
+}

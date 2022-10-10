@@ -1,0 +1,7 @@
+{
+    "parent": "xalixilax:block/template_leaves_0_no_tint_no_overlay",
+    "textures": {
+        "all": "biomesoplenty:block/pink_cherry_leaves",
+        "bushy": "biomesoplenty:block/pink_cherry_leaves_0"
+    }
+}

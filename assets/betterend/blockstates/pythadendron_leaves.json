@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "betterend:block/leaves/pythadendron_leaves_0" },
+			{ "model": "betterend:block/leaves/pythadendron_leaves_1" },
+			{ "model": "betterend:block/leaves/pythadendron_leaves_0", "y": 90 },
+			{ "model": "betterend:block/leaves/pythadendron_leaves_1", "y": 90 },
+			{ "model": "betterend:block/leaves/pythadendron_leaves_0", "y": 180 },
+			{ "model": "betterend:block/leaves/pythadendron_leaves_1", "y": 180 },
+			{ "model": "betterend:block/leaves/pythadendron_leaves_0", "y": 270 },
+			{ "model": "betterend:block/leaves/pythadendron_leaves_1", "y": 270 }
+		]
+    }
+}

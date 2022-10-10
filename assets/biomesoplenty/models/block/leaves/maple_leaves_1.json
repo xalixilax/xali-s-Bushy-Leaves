@@ -1,0 +1,7 @@
+{
+    "parent": "xalixilax:block/template_leaves_1_no_tint_no_overlay",
+    "textures": {
+        "all": "biomesoplenty:block/maple_leaves",
+        "bushy": "biomesoplenty:block/maple_leaves_1"
+    }
+}

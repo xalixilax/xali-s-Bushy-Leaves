@@ -1,0 +1,7 @@
+{
+    "parent": "xalixilax:block/template_leaves_1_no_tint_no_overlay",
+    "textures": {
+        "all": "ars_nouveau:blocks/blue_archwood_leaves_2",
+        "bushy": "ars_nouveau:block/bushy_blue_archwood_leaves_2"
+    }
+}

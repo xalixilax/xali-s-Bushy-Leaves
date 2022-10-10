@@ -1,0 +1,9 @@
+{
+    "parent": "xalixilax:block/template_leaves_1_no_inv",
+    "textures": {
+        "all": "biomesoplenty:block/flowering_oak_leaves",
+        "bushy": "biomesoplenty:block/flowering_oak_leaves_1",
+		"overlay": "biomesoplenty:block/flowering_oak_leaves_overlay",
+		"bushy_overlay": "biomesoplenty:block/flowering_oak_leaves_overlay_1"
+    }
+}

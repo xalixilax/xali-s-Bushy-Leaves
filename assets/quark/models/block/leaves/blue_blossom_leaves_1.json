@@ -1,0 +1,7 @@
+{
+    "parent": "xalixilax:block/template_leaves_1_no_tint_no_overlay",
+    "textures": {
+        "all": "quark:block/blue_blossom_leaves",
+        "bushy": "quark:block/blue_blossom_leaves_1"
+    }
+}

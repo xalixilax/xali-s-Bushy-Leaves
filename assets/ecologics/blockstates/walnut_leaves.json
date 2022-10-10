@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "ecologics:block/leaves/walnut_leaves_0" },
+			{ "model": "ecologics:block/leaves/walnut_leaves_1" },
+			{ "model": "ecologics:block/leaves/walnut_leaves_0", "y": 90 },
+			{ "model": "ecologics:block/leaves/walnut_leaves_1", "y": 90 },
+			{ "model": "ecologics:block/leaves/walnut_leaves_0", "y": 180 },
+			{ "model": "ecologics:block/leaves/walnut_leaves_1", "y": 180 },
+			{ "model": "ecologics:block/leaves/walnut_leaves_0", "y": 270 },
+			{ "model": "ecologics:block/leaves/walnut_leaves_1", "y": 270 }
+		]
+    }
+}

@@ -1,2 +1,2 @@
 # Feature
-- Added Ars Nouveau leaves
+- Added cherry leaves

@@ -1,0 +1,7 @@
+{
+  "parent": "xalixilax:block/template_leaves_0",
+  "textures": {
+    "all": "environmental:block/wisteria_leaves",
+    "bushy": "environmental:block/wisteria_leaves_0"
+  }
+}

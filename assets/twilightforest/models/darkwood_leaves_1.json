@@ -1,0 +1,7 @@
+{
+  "parent": "xalixilax:block/template_leaves_1",
+  "textures": {
+    "all": "twilightforest:block/darkwood_leaves",
+    "bushy": "twilightforest:block/darkwood_leaves_1"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "variants": {
+    "": [
+      { "model": "wilderwild:block/leaves/baobab_leaves_0" },
+      { "model": "wilderwild:block/leaves/baobab_leaves_1" },
+      {
+        "model": "wilderwild:block/leaves/baobab_leaves_0",
+        "y": 90
+      },
+      {
+        "model": "wilderwild:block/leaves/baobab_leaves_1",
+        "y": 90
+      },
+      {
+        "model": "wilderwild:block/leaves/baobab_leaves_0",
+        "y": 180
+      },
+      {
+        "model": "wilderwild:block/leaves/baobab_leaves_1",
+        "y": 180
+      },
+      {
+        "model": "wilderwild:block/leaves/baobab_leaves_0",
+        "y": 270
+      },
+      {
+        "model": "wilderwild:block/leaves/baobab_leaves_1",
+        "y": 270
+      }
+    ]
+  }
+}

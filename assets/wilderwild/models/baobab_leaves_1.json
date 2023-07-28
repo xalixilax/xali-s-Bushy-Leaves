@@ -1,0 +1,7 @@
+{
+  "parent": "xalixilax:block/template_leaves_1",
+  "textures": {
+    "all": "wilderwild:block/baobab_leaves",
+    "bushy": "wilderwild:block/baobab_leaves_1"
+  }
+}

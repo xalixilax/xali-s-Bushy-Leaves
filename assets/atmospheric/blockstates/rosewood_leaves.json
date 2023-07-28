@@ -1,0 +1,32 @@
+{
+  "variants": {
+    "": [
+      { "model": "atmospheric:block/leaves/rosewood_leaves_0" },
+      { "model": "atmospheric:block/leaves/rosewood_leaves_1" },
+      {
+        "model": "atmospheric:block/leaves/rosewood_leaves_0",
+        "y": 90
+      },
+      {
+        "model": "atmospheric:block/leaves/rosewood_leaves_1",
+        "y": 90
+      },
+      {
+        "model": "atmospheric:block/leaves/rosewood_leaves_0",
+        "y": 180
+      },
+      {
+        "model": "atmospheric:block/leaves/rosewood_leaves_1",
+        "y": 180
+      },
+      {
+        "model": "atmospheric:block/leaves/rosewood_leaves_0",
+        "y": 270
+      },
+      {
+        "model": "atmospheric:block/leaves/rosewood_leaves_1",
+        "y": 270
+      }
+    ]
+  }
+}

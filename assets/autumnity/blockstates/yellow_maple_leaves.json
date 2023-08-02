@@ -1,0 +1,32 @@
+{
+  "variants": {
+    "": [
+      { "model": "autumnity:block/leaves/maple_leaves_0" },
+      { "model": "autumnity:block/leaves/maple_leaves_1" },
+      {
+        "model": "autumnity:block/leaves/maple_leaves_0",
+        "y": 90
+      },
+      {
+        "model": "autumnity:block/leaves/maple_leaves_1",
+        "y": 90
+      },
+      {
+        "model": "autumnity:block/leaves/maple_leaves_0",
+        "y": 180
+      },
+      {
+        "model": "autumnity:block/leaves/maple_leaves_1",
+        "y": 180
+      },
+      {
+        "model": "autumnity:block/leaves/maple_leaves_0",
+        "y": 270
+      },
+      {
+        "model": "autumnity:block/leaves/maple_leaves_1",
+        "y": 270
+      }
+    ]
+  }
+}

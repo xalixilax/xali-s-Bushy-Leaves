@@ -1,0 +1,88 @@
+{
+  "variants": {
+    "growth=cant_grow": [
+      { "model": "blue_skies:block/cherry_leaves_cant_grow_0" },
+      { "model": "blue_skies:block/cherry_leaves_cant_grow_1" },
+      {
+        "model": "blue_skies:block/cherry_leaves_cant_grow_0",
+        "y": 90
+      },
+      {
+        "model": "blue_skies:block/cherry_leaves_cant_grow_1",
+        "y": 90
+      },
+      {
+        "model": "blue_skies:block/cherry_leaves_cant_grow_0",
+        "y": 180
+      },
+      {
+        "model": "blue_skies:block/cherry_leaves_cant_grow_1",
+        "y": 180
+      },
+      {
+        "model": "blue_skies:block/cherry_leaves_cant_grow_0",
+        "y": 270
+      },
+      {
+        "model": "blue_skies:block/cherry_leaves_cant_grow_1",
+        "y": 270
+      }
+    ],
+    "growth=can_grow": [
+      { "model": "blue_skies:block/cherry_leaves_can_grow_0" },
+      { "model": "blue_skies:block/cherry_leaves_can_grow_1" },
+      {
+        "model": "blue_skies:block/cherry_leaves_can_grow_0",
+        "y": 90
+      },
+      {
+        "model": "blue_skies:block/cherry_leaves_can_grow_1",
+        "y": 90
+      },
+      {
+        "model": "blue_skies:block/cherry_leaves_can_grow_0",
+        "y": 180
+      },
+      {
+        "model": "blue_skies:block/cherry_leaves_can_grow_1",
+        "y": 180
+      },
+      {
+        "model": "blue_skies:block/cherry_leaves_can_grow_0",
+        "y": 270
+      },
+      {
+        "model": "blue_skies:block/cherry_leaves_can_grow_1",
+        "y": 270
+      }
+    ],
+    "growth=grown": [
+      { "model": "blue_skies:block/cherry_leaves_grown_0" },
+      { "model": "blue_skies:block/cherry_leaves_grown_1" },
+      {
+        "model": "blue_skies:block/cherry_leaves_grown_0",
+        "y": 90
+      },
+      {
+        "model": "blue_skies:block/cherry_leaves_grown_1",
+        "y": 90
+      },
+      {
+        "model": "blue_skies:block/cherry_leaves_grown_0",
+        "y": 180
+      },
+      {
+        "model": "blue_skies:block/cherry_leaves_grown_1",
+        "y": 180
+      },
+      {
+        "model": "blue_skies:block/cherry_leaves_grown_0",
+        "y": 270
+      },
+      {
+        "model": "blue_skies:block/cherry_leaves_grown_1",
+        "y": 270
+      }
+    ]
+  }
+}

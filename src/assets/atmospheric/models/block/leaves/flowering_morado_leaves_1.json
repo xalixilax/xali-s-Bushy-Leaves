@@ -1,0 +1,9 @@
+{
+  "parent": "xalixilax:block/template_leaves_1_no_inv",
+  "textures": {
+    "all": "atmospheric:block/morado_leaves",
+    "bushy": "atmospheric:block/morado_leaves_1",
+	"overlay": "atmospheric:block/flowering_morado_leaves_overlay",
+	"bushy_overlay": "atmospheric:block/flowering_morado_leaves_overlay_1"
+  }
+}

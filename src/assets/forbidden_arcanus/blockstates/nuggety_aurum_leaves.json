@@ -1,0 +1,32 @@
+{
+  "variants": {
+    "": [
+      { "model": "forbidden_arcanus:block/leaves/nuggety_aurum_leaves_0" },
+      { "model": "forbidden_arcanus:block/leaves/nuggety_aurum_leaves_1" },
+      {
+        "model": "forbidden_arcanus:block/leaves/nuggety_aurum_leaves_0",
+        "y": 90
+      },
+      {
+        "model": "forbidden_arcanus:block/leaves/nuggety_aurum_leaves_1",
+        "y": 90
+      },
+      {
+        "model": "forbidden_arcanus:block/leaves/nuggety_aurum_leaves_0",
+        "y": 180
+      },
+      {
+        "model": "forbidden_arcanus:block/leaves/nuggety_aurum_leaves_1",
+        "y": 180
+      },
+      {
+        "model": "forbidden_arcanus:block/leaves/nuggety_aurum_leaves_0",
+        "y": 270
+      },
+      {
+        "model": "forbidden_arcanus:block/leaves/nuggety_aurum_leaves_1",
+        "y": 270
+      }
+    ]
+  }
+}

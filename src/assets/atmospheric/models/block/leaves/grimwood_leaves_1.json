@@ -1,0 +1,7 @@
+{
+  "parent": "xalixilax:block/template_leaves_1",
+  "textures": {
+    "all": "atmospheric:block/grimwood_leaves",
+    "bushy": "atmospheric:block/grimwood_leaves_1"
+  }
+}

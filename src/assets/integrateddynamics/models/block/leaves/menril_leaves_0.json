@@ -1,0 +1,7 @@
+{
+    "parent": "xalixilax:block/template_leaves_0",
+    "textures": {
+        "all": "integrateddynamics:block/menril_leaves_fancy",
+        "bushy": "integrateddynamics:block/menril_leaves_0"
+    }
+}

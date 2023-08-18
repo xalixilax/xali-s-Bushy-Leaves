@@ -1,0 +1,7 @@
+{
+    "parent": "xalixilax:block/template_leaves_0_no_tint_no_overlay",
+    "textures": {
+        "all": "quark:block/ancient_leaves",
+        "bushy": "quark:block/ancient_leaves_0"
+    }
+}

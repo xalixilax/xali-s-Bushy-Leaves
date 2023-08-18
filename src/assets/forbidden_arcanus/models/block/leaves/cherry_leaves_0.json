@@ -1,0 +1,7 @@
+{
+  "parent": "xalixilax:block/template_leaves_0_no_tint_no_overlay",
+  "textures": {
+    "all": "forbidden_arcanus:block/cherry_leaves",
+    "bushy": "forbidden_arcanus:block/cherry_leaves_0"
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "parent": "xalixilax:block/template_leaves_1_no_tint_no_overlay",
+  "parent": "xalixilax:block/template_leaves_1",
   "textures": {
     "all": "atmospheric:block/morado_leaves",
     "bushy": "atmospheric:block/morado_leaves_1"

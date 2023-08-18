@@ -1,5 +1,5 @@
 {
-  "parent": "xalixilax:block/template_leaves_0",
+  "parent": "xalixilax:block/template_leaves_0_no_tint_no_overlay",
   "textures": {
     "all": "environmental:block/wisteria_leaves",
     "bushy": "environmental:block/wisteria_leaves_0"
